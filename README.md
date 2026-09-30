@@ -2,9 +2,9 @@
 
 🎓 Bachelor's in Computer Science and Economics
 
-📊 Aspiring Data Analyst
+📊 Data Science
 
-🌱 Building projects to strengthen my analytics portfolio
+🌱 Building projects to strengthen my portfolio
 
 📫 Open to internships and entry-level opportunities
 
