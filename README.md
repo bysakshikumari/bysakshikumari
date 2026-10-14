@@ -80,7 +80,7 @@ Cutoffs are published as scattered PDFs, round after round, and nobody can reaso
 
 ---
 
-### 📅 ClassTrack: College Class Predictor &nbsp;🔒
+### ClassTrack: College Class Predictor &nbsp;🔒
 *A college class tracker for hostel wardens.*
 Pick a day and a time slot, and instantly see who has class and who doesn't, so you only check the rooms that matter.
 
@@ -93,7 +93,7 @@ Private repository. Happy to walk through the design and demo it on request.
 <br>
 
 
-## 🛠️ Toolkit
+## Toolkit
 
 <div align="center">
 
