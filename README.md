@@ -67,14 +67,14 @@ Cutoffs are published as scattered PDFs, round after round, and nobody can reaso
 - Gives the **latest (2026) cutoffs** the most weight, since they're the best guide to the next cycle, and keeps **2025** for trends and year-on-year comparison
 - A **Streamlit** interface: enter a score, see where you stand
 
-`Python` `Streamlit` · **[View repo →](#)**
+`Python` `Streamlit` · **[View repo →](https://github.com/bysakshikumari/Du-college-cutoff-preditor)**
 
 ---
 
 ### Parliament NLP
 *What does the language of parliamentary proceedings reveal that reading it line by line never would?*
 
-`Python` `NLP` `Streamlit` · **[View repo →](#)**
+`Python` `NLP` `Streamlit` · **[View repo →](https://github.com/bysakshikumari/Trending-topic-in-parliament-NLP-tracker)**
 
 <!-- TODO: add the dataset (house, years), the NLP techniques used, and your most interesting finding -->
 
@@ -86,7 +86,7 @@ Pick a day and a time slot, and instantly see who has class and who doesn't, so 
 
 Private repository. Happy to walk through the design and demo it on request.
 
-`Python`
+`Python` `Streamlit`
 
 <!-- TODO: add how the prediction works, the data it learns from, the full stack, and current status -->
 
