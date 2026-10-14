@@ -1,108 +1,136 @@
-<h1 align="center">Sakshi Kumari</h1>
+<div align="center">
 
-<p align="center">
-  I turn messy data into clear decisions.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:2c5364,100:8957e5&text=Sakshi%20Kumari&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Data%20is%20what%20people%20leave%20behind%20when%20they%20make%20decisions.&descSize=17&descAlignY=60" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BS_Data_Science-IIT_Madras-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BA-Computer_Science_%26_Economics-8957e5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open_to-Internships_%26_Entry--level-2ea043?style=for-the-badge" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1800&color=8957E5&center=true&vCenter=true&width=640&lines=I+study+the+decisions+behind+the+data.;Computer+Science+%C2%B7+Economics+%C2%B7+Data+Science;Currently+open+to+internships+and+entry-level+roles" alt="typing intro" /></a>
 
----
+<br><br>
+
+<img src="https://img.shields.io/badge/Data_Science_and_Applications-IIT_Madras-1f6feb?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer_Science_%26_Economics-8957e5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open_to-Internships_%26_Entry--level--jobs-2ea043?style=for-the-badge" />
+
+</div>
+
+<br>
 
 ## About me
 
-I study **Computer Science and Economics**, and that mix shapes how I work with data. I don't stop at *what the numbers say*. I want to know *what they mean* and *what someone should do about it*.
+A dataset is a record of choices: which college a student picks, what a household cuts from its budget, what a member of parliament chooses to say out loud. I'm drawn to the choices.
 
-This is my first repo, so it's a starting point. Every project I add from here on is meant to show how I think, not only what I can code.
+I come at them from three directions. **Computer science** gives me the machinery, **economics** gives me the questions about incentives and trade-offs, and **data science** is where the two meet evidence. The work I care about sits in that overlap: building things that help someone decide better, and being honest about how much the data can and can't tell us.
+
+This is my first repo, and the start of a body of work. Each project below is written as a question first and a tool second.
+
+<br>
 
 ## Education
 
-> ### BS in Data Science and Applications · **IIT Madras**
-> A degree programme from one of India's top technical institutes, built around the full data science pipeline: programming, statistics and mathematics, databases, machine learning, and applying them to real problems.
->
-> - **Level:** *Foundation / Diploma / Degree (add where you are)*
-> - **Core areas:** Python programming · Statistics · Mathematics for Data Science · SQL & databases · Machine Learning
-> - **Highlights:** *add standout courses, projects, grades or achievements*
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <h3>Data Science and Applications</h3>
+      <b>IIT Madras</b>
+      <br><br>
+    </td>
+    <td align="center" width="50%">
+      <br>
+      <h3>Computer Science and Economics</h3>
+      <b>Bachelor's degree</b>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
-**Bachelor's in Computer Science and Economics**: the second half of my toolkit. It's why I pair technical analysis with economic reasoning.
+<br>
 
-## 🔍 What I care about
+## How I think about data
 
-- **Questions before code.** A good analysis starts with a sharp question.
-- **Visuals that explain.** If a chart needs a paragraph to decode, I redesign the chart.
-- **Insight over output.** A dashboard is only useful if it changes a decision.
+| | |
+|---|---|
+| **Decisions, not datasets** | I start from the person who has to choose something, then work backwards to the data they'd need. |
+| **Uncertainty is the point** | A prediction that hides how wrong it could be is a guess with a nice interface. I'd rather show the range. |
+| **Language is data too** | Speeches, debates and transcripts carry patterns that numbers alone never will. |
+| **A chart is an argument** | Every visual claims something. If it can't survive being questioned, it goes back to the drawing board. |
+
+<br>
+
+## Projects
+
+### DU College & Course Predictor
+*With my score, which Delhi University colleges and courses can I realistically get into?*
+
+Cutoffs are published as scattered PDFs, round after round, and nobody can reason across them by hand. This app turns the official **DU UG minimum allocation scores** into something you can query.
+
+- Covers **Round One, Round Two and the Spot Round**
+- Gives the **latest (2026) cutoffs** the most weight, since they're the best guide to the next cycle, and keeps **2025** for trends and year-on-year comparison
+- A **Streamlit** interface: enter a score, see where you stand
+
+`Python` `Streamlit` · **[View repo →](#)**
+
+---
+
+### Parliament NLP
+*What does the language of parliamentary proceedings reveal that reading it line by line never would?*
+
+`Python` `NLP` `Streamlit` · **[View repo →](#)**
+
+<!-- TODO: add the dataset (house, years), the NLP techniques used, and your most interesting finding -->
+
+---
+
+### 📅 ClassTrack: College Class Predictor &nbsp;🔒
+*A college class tracker for hostel wardens.*
+Pick a day and a time slot, and instantly see who has class and who doesn't, so you only check the rooms that matter.
+
+Private repository. Happy to walk through the design and demo it on request.
+
+`Python`
+
+<!-- TODO: add how the prediction works, the data it learns from, the full stack, and current status -->
+
+<br>
+
 
 ## 🛠️ Toolkit
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,postgres,excel,powerbi&theme=dark" />
-</p>
+<div align="center">
 
-| Area | What I use it for |
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,postgres,powerbi,excel&theme=dark" />
+
+</div>
+
+| | |
 |---|---|
-| **Python** (Pandas, NumPy) | Cleaning, exploring and reshaping data |
-| **SQL** | Querying and joining data to answer business questions |
-| **Excel** | Quick analysis and sanity checks |
-| **Power BI** | Interactive dashboards and reporting |
-| **Data Visualization** | Turning findings into something people can act on |
+| **Python** · Pandas · NumPy | Cleaning, exploring and modelling data |
+| **SQL** | Asking precise questions of structured data |
+| **Power BI** · Excel | Dashboards and fast analysis |
+| **Data visualization** | Turning findings into arguments people can act on |
 
-## 🌱 Currently levelling up
+<br>
+
+## Currently exploring
 
 ```text
-> Advanced SQL        window functions, CTEs, query optimisation
-> Machine Learning    building and evaluating models
-> Data Storytelling   turning analysis into a narrative people remember
+→ Advanced SQL        window functions, CTEs, thinking in sets
+→ Machine Learning    models that earn their complexity
+→ Data Storytelling   analysis that survives contact with a busy reader
 ```
 
-## 📂 Featured projects
+<br>
 
-### 🎓 DU College & Course Predictor
-**The question:** *With my score, which Delhi University colleges and courses can I realistically get into?*
+## Let's connect
 
-Admission cutoffs are scattered across dozens of PDFs, and nobody has time to read through them. This app turns the official **DU UG minimum allocation score** data into something you can query.
+I'm looking for **internships and entry-level roles** in data analytics and data science. If you're working on something where the hard part is the question rather than the code, I'd like to hear about it.
 
-- Built on cutoff data from **Round One, Round Two and the Spot Round**
-- Weights the **latest (2026) cutoffs** most heavily, since they're the best guide for the next cycle, and uses **2025 data** to show trends and year-on-year comparison
-- Interactive **Streamlit** interface: enter your score, see your options
+<div align="center">
 
-**Stack:** Python · Pandas · Streamlit  
-**Repo:** [link to repo](#)
+<a href="mailto:sakshi.05.sk@gmail.com"><img src="https://img.shields.io/badge/Email-sakshi.05.sk%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sakshi-k-488a55349"><img src="https://img.shields.io/badge/LinkedIn-Sakshi_Kumari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
----
+<br><br>
 
-### 🏛️ Parliament NLP
-**The question:** *What does the text of parliamentary proceedings reveal that reading it line by line never would?*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8957e5,50:2c5364,100:0f2027&section=footer" width="100%" />
 
-> ✍️ *Add: the dataset (which house / years), the NLP techniques you used (e.g. topic modelling, sentiment, keyword trends), and your most interesting finding.*
-
-**Stack:** Python · NLP  
-**Repo:** [link to repo](#)
-
----
-
-### 📅 ClassTrack: College Class Predictor 🔒
-**The question:** *Which classes are likely to happen, and when, so students can plan their day instead of guessing?*
-
-> Private repository. Happy to walk through the design and demo it on request.
-
-> ✍️ *Add: how the prediction works (data it learns from, model or rules), who it's for, and its current status.*
-
-**Stack:** Python · *add the rest*
-
----
-
-> 🔜 **More coming:** each project is written up as **Question → Approach → Findings → What I'd do next.**
-
-## 🤝 Let's connect
-
-I'm looking for **internships and entry-level roles** in data analytics and data science. If you're hiring, building something interesting, or just want to talk data and economics, I'd love to hear from you.
-
-<p>
-  <a href="mailto:sakshi.05.sk@gmail.com"><img src="https://img.shields.io/badge/Email-sakshi.05.sk%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sakshi-k-488a55349"><img src="https://img.shields.io/badge/LinkedIn-Sakshi_Kumari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>Always learning, always shipping.</i></p>
+</div>
