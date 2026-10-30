@@ -86,7 +86,7 @@ Pick a day and a time slot, and instantly see who has class and who doesn't, so 
 
 Private repository. Happy to walk through the design and demo it on request.
 
-`Python` `Streamlit`  **[View repo →](https://github.com/bysakshikumari/Du-college-cutoff-preditor)**
+`Python` `Streamlit`  **[View repo →](https://github.com/bysakshikumari/ClassTrack)**
 
 <!-- TODO: add how the prediction works, the data it learns from, the full stack, and current status -->
 
